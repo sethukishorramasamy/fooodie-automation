@@ -1,27 +1,14 @@
 Problem Statement & Assignment
-
-Develop a Selenium script to automate the testing of the following web page.
-
-Website URL: https://fooodieweb.000webhostapp.com/
-
+Develop a Selenium script to automate the testing of the following webpage.
+Website URL: https://fooodieweb.000webhostapp.com/ (I have developed this myself)
 Launch the specified website using the Firefox browser and navigate to the home page.
-
 Perform the following actions:
-
 1.Navigate to the "Signin" page.Input values into the email and password fields.
-
 2.Click the "login" button and Accept any alert that may appear.
-
 3.Navigate to the "Explore" page.
-
 4.Click on "Reviews" and then navigate back.
-
 5.Navigate to the "FAQ" page and then navigate back.
-
 6.Navigate to the "Contact" page and then navigate back.
-
 7.Navigate to the "My Cart" page.
-
 8.Return to the "Home" page.
-
 9.Click the "Logout" link and Close the web browser.
